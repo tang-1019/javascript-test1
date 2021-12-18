@@ -1,0 +1,17 @@
+#timer {
+  font-weight: 700;
+  font-size: 50px;
+  padding: 10px;
+}
+
+#start,#stop,#reset {
+  font-weight: 700;
+  padding: 10px;
+  margin: 10px 1px;
+  background-color: #C0C0C0;
+  border-radius: 10px;
+}
+
+
+
+ 
